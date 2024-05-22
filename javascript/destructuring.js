@@ -13,5 +13,3 @@ const obj = {
     [key]: 'value-string'
 }
 console.log(obj[key]); // value-string
-
-
